@@ -1,0 +1,55 @@
+{
+  "leads": [
+    {
+      "id": "lead_1788294791488_939",
+      "nome": "Sistema Moto Peças",
+      "loja": "Sistema Moto Peças",
+      "whatsapp": "62993113866",
+      "origem": "Google",
+      "notas": "Fazer o primeiro contato",
+      "status": "novo",
+      "proximaData": "",
+      "proximaNota": "Entrar em contato",
+      "criadoEm": 1788294791488,
+      "atualizadoEm": 1788294798489
+    }
+  ],
+  "templates": [
+    {
+      "id": "t1",
+      "stage": "novo",
+      "title": "Primeiro contato",
+      "text": "Oi {nome}, tudo bem? Aqui é [seu nome]. Ajudo lojas de informática como a {loja} a organizar vendas, ordens de serviço e estoque em um só lugar com o Synapse Gest, um sistema de gestão completo. Posso te mostrar rapidinho como funciona, sem compromisso? Fico à disposição pra qualquer pergunta."
+    },
+    {
+      "id": "t2",
+      "stage": "contatado",
+      "title": "Follow-up (dia 3)",
+      "text": "Oi {nome}! Passando aqui pra saber se chegou a ver minha mensagem sobre o Synapse Gest. Ficou alguma dúvida sobre o sistema que eu possa esclarecer?"
+    },
+    {
+      "id": "t3",
+      "stage": "contatado",
+      "title": "Follow-up (dia 7)",
+      "text": "{nome}, sei que a rotina da {loja} é corrida. Fica aberto: se quiser bater um papo rápido sobre como o Synapse Gest pode ajudar no dia a dia (vendas, ordem de serviço, estoque, caixa), é só me chamar. Sem pressão nenhuma."
+    },
+    {
+      "id": "t4",
+      "stage": "demo",
+      "title": "Convite para demonstração",
+      "text": "Que bom que você tem interesse, {nome}! Posso te mostrar o Synapse Gest funcionando na prática essa semana, incluindo os módulos de vendas, ordem de serviço e estoque. Prefere terça ou quinta? Qualquer pergunta antes disso, pode mandar."
+    },
+    {
+      "id": "t5",
+      "stage": "demo",
+      "title": "Pós-demonstração",
+      "text": "Oi {nome}, gostou do que viu na demonstração do Synapse Gest? Fico à disposição pra tirar qualquer dúvida que tenha ficado, é só perguntar, sem problema nenhum."
+    },
+    {
+      "id": "t6",
+      "stage": "fechado",
+      "title": "Fechamento",
+      "text": "{nome}, bora colocar o Synapse Gest pra rodar na {loja}? Te explico os próximos passos agora mesmo."
+    }
+  ]
+}
