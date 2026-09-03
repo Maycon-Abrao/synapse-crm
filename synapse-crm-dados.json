@@ -71,7 +71,7 @@
       "id": "t1",
       "stage": "novo",
       "title": "Primeiro contato",
-      "text": "Olá, {nome}, tudo bem? Aqui é o Maycon Denis. Ajudo lojas de informática como a {loja} a organizar vendas, ordens de serviço e estoque em um só lugar com o Synapse Gest, um sistema de gestão completo. Posso te mostrar rapidinho como funciona, sem compromisso? Fico à disposição pra qualquer pergunta."
+      "text": "Olá, {nome}, tudo bem? Aqui é o Maycon Denis. Ajudo lojas como a {loja} a organizar vendas, ordens de serviço e estoque em um só lugar com o Synapse Gest, um sistema de gestão completo. Posso te mostrar rapidinho como funciona, sem compromisso? Fico à disposição pra qualquer pergunta."
     },
     {
       "id": "t2",
