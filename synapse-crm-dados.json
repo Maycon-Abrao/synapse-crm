@@ -38,6 +38,19 @@
       "proximaNota": "Primeiro contato",
       "criadoEm": 1788457434513,
       "atualizadoEm": 1788457877800
+    },
+    {
+      "id": "lead_1788461924734_714",
+      "nome": "Murillo Tech",
+      "loja": "Murillo Tech Assistencia técnica",
+      "whatsapp": "62993409570",
+      "origem": "Google",
+      "notas": "",
+      "status": "novo",
+      "proximaData": "",
+      "proximaNota": "Primeiro contato",
+      "criadoEm": 1788461924734,
+      "atualizadoEm": 1788461924734
     }
   ],
   "templates": [
