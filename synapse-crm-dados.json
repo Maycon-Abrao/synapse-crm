@@ -90,6 +90,19 @@
       "proximaNota": "Primeiro contato",
       "criadoEm": 1789151781935,
       "atualizadoEm": 1789151892360
+    },
+    {
+      "id": "lead_1789396949252_174",
+      "nome": "Inver Tech",
+      "loja": "Inver Tech",
+      "whatsapp": "62985297408",
+      "origem": "Google",
+      "notas": "Entrar em contato",
+      "status": "novo",
+      "proximaData": "",
+      "proximaNota": "Primeiro contato",
+      "criadoEm": 1789396949252,
+      "atualizadoEm": 1789396949252
     }
   ],
   "templates": [
