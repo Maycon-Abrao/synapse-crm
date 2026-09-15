@@ -103,6 +103,19 @@
       "proximaNota": "Primeiro contato",
       "criadoEm": 1789396949252,
       "atualizadoEm": 1789397022762
+    },
+    {
+      "id": "lead_1789500044038_98",
+      "nome": "RT Cell",
+      "loja": "RT Cell",
+      "whatsapp": "62993808207",
+      "origem": "Google",
+      "notas": "",
+      "status": "novo",
+      "proximaData": "2026-09-22",
+      "proximaNota": "Primeiro contato",
+      "criadoEm": 1789500044038,
+      "atualizadoEm": 1789500044038
     }
   ],
   "templates": [
