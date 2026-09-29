@@ -155,6 +155,19 @@
       "proximaNota": "Primeiro contato",
       "criadoEm": 1790691543885,
       "atualizadoEm": 1790691649404
+    },
+    {
+      "id": "lead_1790691701433_751",
+      "nome": "Carlos Ocelis",
+      "loja": "Carlos Ocelis",
+      "whatsapp": "62985586302",
+      "origem": "Prospecção",
+      "notas": "",
+      "status": "novo",
+      "proximaData": "2026-10-06",
+      "proximaNota": "Primeiro contato",
+      "criadoEm": 1790691701433,
+      "atualizadoEm": 1790691701433
     }
   ],
   "templates": [
