@@ -155,6 +155,19 @@
       "proximaNota": "Primeiro contato",
       "criadoEm": 1790690440705,
       "atualizadoEm": 1790690440705
+    },
+    {
+      "id": "lead_1790690499455_23",
+      "nome": "Real Auto Mecanica",
+      "loja": "Real Auto Mecanica",
+      "whatsapp": "62985045343",
+      "origem": "Prospecção",
+      "notas": "",
+      "status": "novo",
+      "proximaData": "2026-10-06",
+      "proximaNota": "Primeiro contato",
+      "criadoEm": 1790690499455,
+      "atualizadoEm": 1790690499455
     }
   ],
   "templates": [
