@@ -168,6 +168,19 @@
       "proximaNota": "Primeiro contato",
       "criadoEm": 1790691701433,
       "atualizadoEm": 1790691735753
+    },
+    {
+      "id": "lead_1790691887616_996",
+      "nome": "Luiz Augusto",
+      "loja": "Oficina mecanica",
+      "whatsapp": "62994919015",
+      "origem": "Prospecção",
+      "notas": "",
+      "status": "novo",
+      "proximaData": "2026-10-06",
+      "proximaNota": "Primeiro contato",
+      "criadoEm": 1790691887616,
+      "atualizadoEm": 1790691887616
     }
   ],
   "templates": [
