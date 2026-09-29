@@ -168,6 +168,19 @@
       "proximaNota": "Primeiro contato",
       "criadoEm": 1790690499455,
       "atualizadoEm": 1790690499455
+    },
+    {
+      "id": "lead_1790690542768_772",
+      "nome": "José Carlos",
+      "loja": "José Carlos",
+      "whatsapp": "35483614",
+      "origem": "Prospecção",
+      "notas": "",
+      "status": "novo",
+      "proximaData": "2026-10-06",
+      "proximaNota": "Primeiro contato",
+      "criadoEm": 1790690542768,
+      "atualizadoEm": 1790690542768
     }
   ],
   "templates": [
