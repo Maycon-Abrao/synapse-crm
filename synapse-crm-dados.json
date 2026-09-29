@@ -129,6 +129,19 @@
       "proximaNota": "Primeiro contato",
       "criadoEm": 1790690341245,
       "atualizadoEm": 1790690341245
+    },
+    {
+      "id": "lead_1790690392276_946",
+      "nome": "Kasa Motors",
+      "loja": "Kasa Motors",
+      "whatsapp": "6232541100",
+      "origem": "Prospecção",
+      "notas": "",
+      "status": "novo",
+      "proximaData": "2026-10-06",
+      "proximaNota": "Primeiro contato",
+      "criadoEm": 1790690392276,
+      "atualizadoEm": 1790690392276
     }
   ],
   "templates": [
